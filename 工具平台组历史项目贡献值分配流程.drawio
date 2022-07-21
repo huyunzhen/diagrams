@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T02:47:23.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.2" etag="yIL19CSN1K0LgijUUZkm" type="github"><diagram id="hT_umMIvxl7dEhStBgcg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-21T11:03:43.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6zrdakv97-_o6moOBR2C" version="20.1.2" type="github">
+  <diagram id="hT_umMIvxl7dEhStBgcg" name="第 1 页">
+    <mxGraphModel dx="1141" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQkcGyKxJEIJN29jR2ig-2" target="lQkcGyKxJEIJN29jR2ig-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-2" value="计算项目贡献值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQkcGyKxJEIJN29jR2ig-4" target="lQkcGyKxJEIJN29jR2ig-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-4" value="计算人工成本" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lQkcGyKxJEIJN29jR2ig-5" target="lQkcGyKxJEIJN29jR2ig-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-5" value="项目价值判断" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQkcGyKxJEIJN29jR2ig-6" target="lQkcGyKxJEIJN29jR2ig-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-6" value="计算项目激励金额" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-10" value="按照每人月80贡献值" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="65" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-11" value="按照激励基数 * 贡献值 计算人工成本" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="225" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lQkcGyKxJEIJN29jR2ig-12" target="lQkcGyKxJEIJN29jR2ig-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-12" value="激励分配" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQkcGyKxJEIJN29jR2ig-14" value="激励发放" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
