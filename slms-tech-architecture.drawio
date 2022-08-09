@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T01:48:27.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XEOr2za_ywMDCiK-RKDd" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T02:08:10.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HBHSdImBUkpLuRmAwc_i" version="20.2.2" type="github">
   <diagram id="A4ItZbjAcyblu4EFFsMP" name="Page-1">
     <mxGraphModel dx="1142" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FAD9D5" math="0" shadow="1">
       <root>
@@ -37,20 +37,17 @@
         <mxCell id="NfwT-5guAlgeJ3il_cm0-22" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="224.5" y="310" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NfwT-5guAlgeJ3il_cm0-28" value="Spring Security" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="551" y="307.75" width="109" height="42.25" as="geometry" />
+        <mxCell id="NfwT-5guAlgeJ3il_cm0-28" value="Spring Core" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="390" y="310" width="109" height="42.25" as="geometry" />
         </mxCell>
         <mxCell id="NfwT-5guAlgeJ3il_cm0-29" value="Mybatis" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="699" y="368" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NfwT-5guAlgeJ3il_cm0-31" value="Spring Core" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="389" y="307.75" width="108" height="44.5" as="geometry" />
-        </mxCell>
         <mxCell id="NfwT-5guAlgeJ3il_cm0-32" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="550" y="368" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NfwT-5guAlgeJ3il_cm0-36" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="391" y="368" width="108" height="40" as="geometry" />
+        <mxCell id="NfwT-5guAlgeJ3il_cm0-36" value="QLExpress" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="224" y="368" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NfwT-5guAlgeJ3il_cm0-39" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="58" y="138" width="121" height="60" as="geometry" />
@@ -79,11 +76,14 @@
         <mxCell id="-aznBYbTXZx-cjws34QP-4" value="MinIO" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="660" y="459.75" width="148" height="40.25" as="geometry" />
         </mxCell>
-        <mxCell id="-aznBYbTXZx-cjws34QP-6" value="Swcares Common" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="699" y="307.75" width="109" height="42.25" as="geometry" />
+        <mxCell id="-aznBYbTXZx-cjws34QP-6" value="Swcares&amp;nbsp;&lt;br&gt;Base Framework" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="550" y="307.75" width="109" height="42.25" as="geometry" />
         </mxCell>
-        <mxCell id="-aznBYbTXZx-cjws34QP-7" value="Swcares Component" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="225.5" y="368" width="109" height="42.25" as="geometry" />
+        <mxCell id="-aznBYbTXZx-cjws34QP-7" value="Swcares &lt;br&gt;User Center" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="700" y="307.75" width="109" height="42.25" as="geometry" />
+        </mxCell>
+        <mxCell id="wqNxczhfJBnNon5Cmf4f-1" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="389" y="368" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
