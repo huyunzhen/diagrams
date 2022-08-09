@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T02:18:51.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vte-CfBvWekoIpwtR8TW" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T02:24:06.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qcXQ54fbOuOJsBqQ67iJ" version="20.2.2" type="github">
   <diagram id="r0G9emKXOvgWaISYR5SE" name="第 1 页">
     <mxGraphModel dx="1142" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FAD9D5" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="58" y="286.5" width="122" height="143.5" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="199" y="290" width="640" height="140" as="geometry" />
+          <mxGeometry x="200" y="290" width="639" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-5" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#56517E;fontColor=#FFFFFF;strokeColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="58" y="449.5" width="120" height="140.5" as="geometry" />
@@ -35,19 +35,19 @@
           <mxGeometry x="199.5" y="530" width="639" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-12" value="薪资项" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="224.5" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="389" y="307.75" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-13" value="薪酬组" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="109" height="42.25" as="geometry" />
+          <mxGeometry x="224" y="307.75" width="109" height="42.25" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-14" value="计薪日设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="699" y="368" width="110" height="40" as="geometry" />
+          <mxGeometry x="389" y="369.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-15" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="550" y="368" width="110" height="40" as="geometry" />
+          <mxGeometry x="700" y="368" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-16" value="权限设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="224" y="368" width="108" height="40" as="geometry" />
+          <mxGeometry x="550" y="368" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-17" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="58" y="138" width="121" height="60" as="geometry" />
@@ -56,13 +56,10 @@
           <mxGeometry x="198" y="138" width="641" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-19" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="234" y="459.56" width="180" height="40.44" as="geometry" />
-        </mxCell>
-        <mxCell id="UyaWN_29bkfGPjHw6yuL-20" value="非关系型数据库" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="459.75" width="168" height="40.44" as="geometry" />
+          <mxGeometry x="324" y="459.75" width="180" height="40.44" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-25" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="660" y="459.75" width="148" height="40.25" as="geometry" />
+          <mxGeometry x="590" y="459.63" width="148" height="40.25" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-26" value="薪酬计算" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="550" y="307.75" width="109" height="42.25" as="geometry" />
@@ -71,7 +68,7 @@
           <mxGeometry x="700" y="307.75" width="109" height="42.25" as="geometry" />
         </mxCell>
         <mxCell id="UyaWN_29bkfGPjHw6yuL-28" value="员工信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="389" y="368" width="110" height="40" as="geometry" />
+          <mxGeometry x="223" y="369.5" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
