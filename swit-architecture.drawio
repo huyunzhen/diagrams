@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T03:43:38.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xVUaT7uNzJdCJy724JsR" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T06:19:01.424Z" agent="5.0 (Macintosh)" etag="Pxbu3rwt5DqabLMKTPjG" version="20.5.3" type="github" pages="2">
   <diagram id="KvTSBWndc6eD5BLYHtSI" name="第 1 页">
-    <mxGraphModel dx="1135" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1186" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,61 @@
         </mxCell>
         <mxCell id="DO_eTJAPRYyBR4aNDUrh-21" value="Quartz" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LFl4zzjRrHofn1ZWyhr0" name="餐补计算程序架构">
+    <mxGraphModel dx="3667" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mx_iXF27oq-1so8VPrLC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-1" target="mx_iXF27oq-1so8VPrLC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-1" value="部门信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-2" target="mx_iXF27oq-1so8VPrLC-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1277.5" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-2" value="考勤信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-3" target="mx_iXF27oq-1so8VPrLC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-3" value="员工信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-6" value="餐补信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-11" target="mx_iXF27oq-1so8VPrLC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-11" target="mx_iXF27oq-1so8VPrLC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-11" target="mx_iXF27oq-1so8VPrLC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-11" value="获取钉钉接口数据" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-15" target="mx_iXF27oq-1so8VPrLC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;" edge="1" parent="1" source="mx_iXF27oq-1so8VPrLC-6" target="mx_iXF27oq-1so8VPrLC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-15" value="餐补计算" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx_iXF27oq-1so8VPrLC-19" value="发送餐补计算结果" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;shadow=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
